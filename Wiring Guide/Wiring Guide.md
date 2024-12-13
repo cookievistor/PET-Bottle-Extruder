@@ -22,15 +22,7 @@ The other end of the cable will connect to the motor speed controller.
 
 ![IMG_1866](https://github.com/user-attachments/assets/1ffc1941-885e-4de6-a75e-a8950199145c)
 
-4. Connecting the Motor:
-
-Solder the positive and negative wires from the cable connected to the controller to the motor terminals.
-
-The polarity does not matter, as it only affects the motor’s rotation direction, which can be adjusted using the switch.
-
-![IMG_1874](https://github.com/user-attachments/assets/7836d5b0-6a7d-4942-849a-2ba68ba20121)
-
-5. Connections to the Motor Speed Controller:
+4. Connections to the Motor Speed Controller:
 
 Connect the positive and negative wires from the 12V output of the power supply to the input (IN) connector of the controller board.
 
@@ -39,6 +31,14 @@ For the output (OUT) connector, attach the positive and negative wires of anothe
 The polarity of both connectors is specified on the bottom of the controller board.
 
 ![IMG_1811](https://github.com/user-attachments/assets/3ae246e8-0184-4a7e-9dba-ebde15a16b7f)
+
+5. Connecting the Motor:
+
+Solder the positive and negative wires from the cable connected to the controller to the motor terminals.
+
+The polarity does not matter, as it only affects the motor’s rotation direction, which can be adjusted using the switch.
+
+![IMG_1874](https://github.com/user-attachments/assets/7836d5b0-6a7d-4942-849a-2ba68ba20121)
 
 6. Connecting the Thermistor to the Temperature Controller:
 
