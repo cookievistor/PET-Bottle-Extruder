@@ -34,7 +34,7 @@ Insert the motor into its support.
 
 Fix the support to the base using four screws through the side holes.
 
-![IMG_1806](https://github.com/user-attachments/assets/6dcc700f-f274-46d3-ac26-eb8a24983059)
+![IMG_1806](https://github.com/user-attachments/assets/f990067b-8842-4cc8-b7ce-834fa36779c4)
 
 
 6. Aluminum Block (with Nozzle):
@@ -63,4 +63,4 @@ Attach the spool holder to the base using two screws through its two holes.
 
 Add a small wooden piece underneath the holder to slightly elevate it, preventing the spool from touching the table.
 
-![Captura de pantalla 2024-12-13 205846](https://github.com/user-attachments/assets/070a1ab5-fe83-4ba8-988d-57e7d4e2ebe9)
+![IMG_1875](https://github.com/user-attachments/assets/b9d56be2-4a2a-4193-a9e2-925c5b2b8126)
