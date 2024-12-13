@@ -2,7 +2,7 @@
 
 Insert the temperature controller, motor speed controller, and its switch into the 3D-printed support.
 
-![IMG_1683](https://github.com/user-attachments/assets/8432b17e-6c8a-44e2-b269-97bb67cef89c)
+![IMG_1683](https://github.com/user-attachments/assets/8432b17e-6c8a-44e2-b269-97bb67cef89c = 1000x800)
 
 2. Attaching the Support with Electronics:
 
